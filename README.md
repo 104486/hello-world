@@ -1,2 +1,3 @@
 # hello-world
-just new repository
+Hi!
+welcome to this new world.......
